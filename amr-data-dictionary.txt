@@ -5,3 +5,8 @@ AMR data
 These data represent the sort if data that might be obtained from the 2nd generation surveillance system.
 
 * id Integer - A unique identifier for each person
+* DOB - Date of birth
+* Specimen Date - Date the sample was collected
+* IMD - Index of multiple deprivation
+* Height - Height in cm
+* Weight - Weight in kgs
